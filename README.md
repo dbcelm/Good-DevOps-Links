@@ -4,8 +4,7 @@ Helpful links surrounding common devops issues and scenarios
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 
-Copying files between local PC and Ubuntu EC2:
-https://github.com/juanfrans/notes/wiki/Copying-Files-Between-Local-Computer-and-Instance-(AWS)
+- [ ] [Copying files between local PC and Ubuntu EC2](https://github.com/juanfrans/notes/wiki/Copying-Files-Between-Local-Computer-and-Instance-(AWS))
 
 How to encrypt an unencrypted Amazon RDS DB instance for MySQL or MariaDB with minimal downtime?
 https://aws.amazon.com/premiumsupport/knowledge-center/rds-encrypt-instance-mysql-mariadb/
